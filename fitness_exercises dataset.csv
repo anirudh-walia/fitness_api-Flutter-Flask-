@@ -1,0 +1,449 @@
+id,equipment,gifUrl,name,target,bodyPart,calories 12 reps (cals)
+1,barbell,http://d205bpvrqc9yn1.cloudfront.net/0071.gif,barbell press sit-up,abs,waist,5
+2,barbell,http://d205bpvrqc9yn1.cloudfront.net/0084.gif,barbell rollerout,abs,waist,5
+3,barbell,http://d205bpvrqc9yn1.cloudfront.net/0094.gif,barbell seated twist,abs,waist,4
+4,barbell,http://d205bpvrqc9yn1.cloudfront.net/0096.gif,barbell side bent v. 2,abs,waist,6
+5,barbell,http://d205bpvrqc9yn1.cloudfront.net/2799.gif,barbell sitted alternate leg raise,abs,waist,5
+6,barbell,http://d205bpvrqc9yn1.cloudfront.net/0103.gif,barbell standing ab rollerout,abs,waist,6
+7,barbell,http://d205bpvrqc9yn1.cloudfront.net/0112.gif,barbell standing twist,abs,waist,6
+8,body weight,http://d205bpvrqc9yn1.cloudfront.net/0001.gif,3/4 sit-up,abs,waist,5
+9,body weight,http://d205bpvrqc9yn1.cloudfront.net/0003.gif,air bike,abs,waist,6
+10,body weight,http://d205bpvrqc9yn1.cloudfront.net/0006.gif,alternate heel touchers,abs,waist,5
+11,body weight,http://d205bpvrqc9yn1.cloudfront.net/3204.gif,arms overhead full sit-up (male),abs,waist,5
+12,body weight,http://d205bpvrqc9yn1.cloudfront.net/0138.gif,bottoms-up,abs,waist,5
+13,body weight,http://d205bpvrqc9yn1.cloudfront.net/2466.gif,bridge - mountain climber (cross body),abs,waist,5
+14,body weight,http://d205bpvrqc9yn1.cloudfront.net/0870.gif,butt-ups,abs,waist,8
+15,body weight,http://d205bpvrqc9yn1.cloudfront.net/0260.gif,cocoons,abs,waist,7
+16,body weight,http://d205bpvrqc9yn1.cloudfront.net/1468.gif,crab twist toe touch,abs,waist,6
+17,body weight,http://d205bpvrqc9yn1.cloudfront.net/0262.gif,cross body crunch,abs,waist,5
+18,body weight,http://d205bpvrqc9yn1.cloudfront.net/0267.gif,crunch (hands overhead),abs,waist,5
+19,body weight,http://d205bpvrqc9yn1.cloudfront.net/0274.gif,crunch floor,abs,waist,5
+20,body weight,http://d205bpvrqc9yn1.cloudfront.net/3016.gif,curl-up,abs,waist,6
+21,body weight,http://d205bpvrqc9yn1.cloudfront.net/0276.gif,dead bug,abs,waist,4
+22,body weight,http://d205bpvrqc9yn1.cloudfront.net/0443.gif,elbow-to-knee,abs,waist,6
+23,body weight,http://d205bpvrqc9yn1.cloudfront.net/0456.gif,flexion leg sit up (bent knee),abs,waist,5
+24,body weight,http://d205bpvrqc9yn1.cloudfront.net/0457.gif,flexion leg sit up (straight arm),abs,waist,5
+25,body weight,http://d205bpvrqc9yn1.cloudfront.net/2429.gif,frog crunch,abs,waist,6
+26,body weight,http://d205bpvrqc9yn1.cloudfront.net/0464.gif,front plank with twist,abs,waist,6
+27,body weight,http://d205bpvrqc9yn1.cloudfront.net/0469.gif,groin crunch,abs,waist,5
+28,body weight,http://d205bpvrqc9yn1.cloudfront.net/3202.gif,half sit-up (male),abs,waist,5
+29,body weight,http://d205bpvrqc9yn1.cloudfront.net/0484.gif,hip raise (bent knee),abs,waist,4
+30,body weight,http://d205bpvrqc9yn1.cloudfront.net/1471.gif,inchworm,abs,waist,5
+31,body weight,http://d205bpvrqc9yn1.cloudfront.net/3698.gif,inchworm v. 2,abs,waist,6
+32,body weight,http://d205bpvrqc9yn1.cloudfront.net/0507.gif,jackknife sit-up,abs,waist,6
+33,body weight,http://d205bpvrqc9yn1.cloudfront.net/0508.gif,janda sit-up,abs,waist,5
+34,body weight,http://d205bpvrqc9yn1.cloudfront.net/3640.gif,knee touch crunch,abs,waist,5
+35,body weight,http://d205bpvrqc9yn1.cloudfront.net/3239.gif,kneeling plank tap shoulder (male),abs,waist,5
+36,body weight,http://d205bpvrqc9yn1.cloudfront.net/3419.gif,l-sit on floor,abs,waist,6
+37,body weight,http://d205bpvrqc9yn1.cloudfront.net/0570.gif,leg pull in flat bench,abs,waist,5
+38,body weight,http://d205bpvrqc9yn1.cloudfront.net/1688.gif,lunge with twist,abs,waist,5
+39,body weight,http://d205bpvrqc9yn1.cloudfront.net/2312.gif,lying elbow to knee,abs,waist,5
+40,body weight,http://d205bpvrqc9yn1.cloudfront.net/0620.gif,lying leg raise flat bench,abs,waist,5
+41,body weight,http://d205bpvrqc9yn1.cloudfront.net/0635.gif,oblique crunches floor,abs,waist,5
+42,body weight,http://d205bpvrqc9yn1.cloudfront.net/3147.gif,pelvic tilt,abs,waist,6
+43,body weight,http://d205bpvrqc9yn1.cloudfront.net/1687.gif,posterior step to overhead reach,abs,waist,5
+44,body weight,http://d205bpvrqc9yn1.cloudfront.net/3119.gif,potty squat,abs,waist,5
+45,body weight,http://d205bpvrqc9yn1.cloudfront.net/3665.gif,power point plank,abs,waist,5
+46,body weight,http://d205bpvrqc9yn1.cloudfront.net/3203.gif,prisoner half sit-up (male),abs,waist,6
+47,body weight,http://d205bpvrqc9yn1.cloudfront.net/0664.gif,push-up to side plank,abs,waist,12
+48,body weight,http://d205bpvrqc9yn1.cloudfront.net/3201.gif,quarter sit-up,abs,waist,5
+49,body weight,http://d205bpvrqc9yn1.cloudfront.net/0872.gif,reverse crunch,abs,waist,5
+50,body weight,http://d205bpvrqc9yn1.cloudfront.net/3663.gif,reverse plank with leg lift,abs,waist,6
+51,body weight,http://d205bpvrqc9yn1.cloudfront.net/0687.gif,russian twist,abs,waist,5
+52,body weight,http://d205bpvrqc9yn1.cloudfront.net/0689.gif,seated leg raise,abs,waist,5
+53,body weight,http://d205bpvrqc9yn1.cloudfront.net/0691.gif,seated side crunch (wall),abs,waist,5
+54,body weight,http://d205bpvrqc9yn1.cloudfront.net/0705.gif,side bridge v. 2,abs,waist,6
+55,body weight,http://d205bpvrqc9yn1.cloudfront.net/3213.gif,side-to-side toe touch (male),abs,waist,5
+56,body weight,http://d205bpvrqc9yn1.cloudfront.net/0735.gif,sit-up v. 2,abs,waist,6
+57,body weight,http://d205bpvrqc9yn1.cloudfront.net/3679.gif,sit-up with arms on chest,abs,waist,5
+58,body weight,http://d205bpvrqc9yn1.cloudfront.net/2329.gif,spine twist,abs,waist,5
+59,body weight,http://d205bpvrqc9yn1.cloudfront.net/0871.gif,tuck crunch,abs,waist,6
+60,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0407.gif,dumbbell side bend,abs,waist,7
+61,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0777.gif,spell caster,abs,waist,9
+62,body weight,http://d205bpvrqc9yn1.cloudfront.net/1494.gif,butterfly yoga pose,abs,leg,4
+63,body weight,http://d205bpvrqc9yn1.cloudfront.net/3667.gif,side lying hip adduction (male),abs,leg,5
+64,body weight,http://d205bpvrqc9yn1.cloudfront.net/1775.gif,side plank hip adduction,abs,leg,5
+65,barbell,http://d205bpvrqc9yn1.cloudfront.net/0023.gif,barbell alternate biceps curl,arms muscle,arms,5
+66,barbell,http://d205bpvrqc9yn1.cloudfront.net/0031.gif,barbell curl,arms muscle,arms,5
+67,barbell,http://d205bpvrqc9yn1.cloudfront.net/0038.gif,barbell drag curl,arms muscle,arms,5
+68,barbell,http://d205bpvrqc9yn1.cloudfront.net/0080.gif,barbell reverse curl,arms muscle,arms,5
+69,barbell,http://d205bpvrqc9yn1.cloudfront.net/0089.gif,barbell seated close-grip concentration curl,arms muscle,arms,5
+70,barbell,http://d205bpvrqc9yn1.cloudfront.net/0106.gif,barbell standing close grip curl,arms muscle,arms,5
+71,barbell,http://d205bpvrqc9yn1.cloudfront.net/2414.gif,barbell standing concentration curl,arms muscle,arms,6
+72,barbell,http://d205bpvrqc9yn1.cloudfront.net/0110.gif,barbell standing reverse grip curl,arms muscle,arms,6
+73,barbell,http://d205bpvrqc9yn1.cloudfront.net/1629.gif,barbell standing wide grip biceps curl,arms muscle,arms,5
+74,barbell,http://d205bpvrqc9yn1.cloudfront.net/0113.gif,barbell standing wide-grip curl,arms muscle,arms,5
+75,body weight,http://d205bpvrqc9yn1.cloudfront.net/1770.gif,biceps leg concentration curl,arms muscle,arms,5
+76,body weight,http://d205bpvrqc9yn1.cloudfront.net/1769.gif,bodyweight side lying biceps curl,arms muscle,arms,5
+77,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0285.gif,dumbbell alternate biceps curl,arms muscle,arms,5
+78,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1648.gif,dumbbell alternate seated hammer curl,arms muscle,arms,5
+79,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1651.gif,dumbbell bicep curl lunge with bowling motion,arms muscle,arms,7
+80,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1653.gif,dumbbell bicep curl with stork stance,arms muscle,arms,8
+81,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0294.gif,dumbbell biceps curl,arms muscle,arms,5
+82,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1654.gif,dumbbell biceps curl reverse,arms muscle,arms,5
+83,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1655.gif,dumbbell biceps curl squat,arms muscle,arms,7
+84,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0297.gif,dumbbell concentration curl,arms muscle,arms,5
+85,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0298.gif,dumbbell cross body hammer curl,arms muscle,arms,6
+86,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1657.gif,dumbbell cross body hammer curl v. 2,arms muscle,arms,6
+87,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0313.gif,dumbbell hammer curl,arms muscle,arms,5
+88,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0312.gif,dumbbell hammer curl v. 2,arms muscle,arms,6
+89,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1664.gif,dumbbell high curl,arms muscle,arms,7
+90,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1658.gif,dumbbell lunge with bicep curl,arms muscle,arms,7
+91,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1662.gif,dumbbell lying wide curl,arms muscle,arms,6
+92,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1669.gif,dumbbell one arm seated hammer curl,arms muscle,arms,5
+93,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1670.gif,dumbbell one arm standing curl,arms muscle,arms,5
+94,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1671.gif,dumbbell one arm standing hammer curl,arms muscle,arms,5
+95,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0382.gif,dumbbell revers grip biceps curl,arms muscle,arms,6
+96,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1677.gif,dumbbell seated bicep curl,arms muscle,arms,5
+97,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0391.gif,dumbbell seated curl,arms muscle,arms,5
+98,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0397.gif,dumbbell seated neutral wrist curl,arms muscle,arms,4
+99,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0403.gif,dumbbell seated revers grip concentration curl,arms muscle,arms,5
+100,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3560.gif,dumbbell standing alternate hammer curl and press,arms muscle,arms,6
+101,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0416.gif,dumbbell standing biceps curl,arms muscle,arms,5
+102,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0418.gif,dumbbell standing concentration curl,arms muscle,arms,5
+103,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2321.gif,dumbbell standing inner biceps curl v. 2,arms muscle,arms,6
+104,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0421.gif,dumbbell standing one arm concentration curl,arms muscle,arms,4
+105,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0425.gif,dumbbell standing one arm reverse curl,arms muscle,arms,4
+106,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0429.gif,dumbbell standing reverse curl,arms muscle,arms,5
+107,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/5201.gif,dumbbell waiter biceps curl,arms muscle,arms,5
+108,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0439.gif,dumbbell zottman curl,arms muscle,arms,6
+109,barbell,http://d205bpvrqc9yn1.cloudfront.net/1370.gif,barbell floor calf raise,legs muscle,leg,5
+110,barbell,http://d205bpvrqc9yn1.cloudfront.net/0088.gif,barbell seated calf raise,legs muscle,leg,5
+111,barbell,http://d205bpvrqc9yn1.cloudfront.net/1371.gif,barbell seated calf raise,legs muscle,leg,5
+112,barbell,http://d205bpvrqc9yn1.cloudfront.net/1372.gif,barbell standing calf raise,legs muscle,leg,5
+113,barbell,http://d205bpvrqc9yn1.cloudfront.net/0111.gif,barbell standing rocking leg calf raise,legs muscle,leg,6
+114,body weight,http://d205bpvrqc9yn1.cloudfront.net/1368.gif,ankle circles,legs muscle,leg,4
+115,body weight,http://d205bpvrqc9yn1.cloudfront.net/1373.gif,bodyweight standing calf raise,legs muscle,leg,5
+116,body weight,http://d205bpvrqc9yn1.cloudfront.net/1407.gif,calf push stretch with hands against wall,legs muscle,leg,5
+117,body weight,http://d205bpvrqc9yn1.cloudfront.net/1377.gif,calf stretch with hands against wall,legs muscle,leg,5
+118,body weight,http://d205bpvrqc9yn1.cloudfront.net/0257.gif,circles knee stretch,legs muscle,leg,4
+119,body weight,http://d205bpvrqc9yn1.cloudfront.net/1386.gif,one leg donkey calf raise,legs muscle,leg,5
+120,body weight,http://d205bpvrqc9yn1.cloudfront.net/1387.gif,one leg floor calf raise,legs muscle,leg,5
+121,body weight,http://d205bpvrqc9yn1.cloudfront.net/1390.gif,seated calf stretch (male),legs muscle,leg,4
+122,body weight,http://d205bpvrqc9yn1.cloudfront.net/1490.gif,standing calf raise (on a staircase),legs muscle,leg,6
+123,body weight,http://d205bpvrqc9yn1.cloudfront.net/1397.gif,standing calves,legs muscle,leg,5
+124,body weight,http://d205bpvrqc9yn1.cloudfront.net/1398.gif,standing calves calf stretch,legs muscle,leg,4
+125,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1379.gif,dumbbell seated calf raise,legs muscle,leg,5
+126,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0400.gif,dumbbell seated one leg calf raise,legs muscle,leg,4
+127,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1380.gif,dumbbell seated one leg calf raise - hammer grip,legs muscle,leg,4
+128,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1381.gif,dumbbell seated one leg calf raise - palm up,legs muscle,leg,5
+129,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0409.gif,dumbbell single leg calf raise,legs muscle,leg,4
+130,body weight,http://d205bpvrqc9yn1.cloudfront.net/3220.gif,astride jumps (male),cardio target,cardio,5
+131,body weight,http://d205bpvrqc9yn1.cloudfront.net/3672.gif,back and forth step,cardio target,cardio,10
+132,body weight,http://d205bpvrqc9yn1.cloudfront.net/3360.gif,bear crawl,cardio target,cardio,10
+133,body weight,http://d205bpvrqc9yn1.cloudfront.net/1160.gif,burpee,cardio target,cardio,8
+134,body weight,http://d205bpvrqc9yn1.cloudfront.net/3221.gif,half knee bends (male),cardio target,cardio,6
+135,body weight,http://d205bpvrqc9yn1.cloudfront.net/3636.gif,high knee against wall,cardio target,cardio,6
+136,body weight,http://d205bpvrqc9yn1.cloudfront.net/0501.gif,jack burpee,cardio target,cardio,7
+137,body weight,http://d205bpvrqc9yn1.cloudfront.net/3224.gif,jack jump (male),cardio target,cardio,10
+138,body weight,http://d205bpvrqc9yn1.cloudfront.net/0630.gif,mountain climber,cardio target,cardio,6
+139,body weight,http://d205bpvrqc9yn1.cloudfront.net/3638.gif,push to run,cardio target,cardio,8
+140,body weight,http://d205bpvrqc9yn1.cloudfront.net/0685.gif,run(1km),cardio target,cardio,80
+141,body weight,http://d205bpvrqc9yn1.cloudfront.net/3219.gif,scissor jumps (male),cardio target,cardio,5
+142,body weight,http://d205bpvrqc9yn1.cloudfront.net/3222.gif,semi squat jump (male),cardio target,cardio,6
+143,body weight,http://d205bpvrqc9yn1.cloudfront.net/3656.gif,short stride run,cardio target,cardio,12
+144,body weight,http://d205bpvrqc9yn1.cloudfront.net/3361.gif,skater hops,cardio target,cardio,5
+145,body weight,http://d205bpvrqc9yn1.cloudfront.net/3671.gif,ski step,cardio target,cardio,5
+146,body weight,http://d205bpvrqc9yn1.cloudfront.net/3223.gif,star jump (male),cardio target,cardio,5
+147,body weight,http://d205bpvrqc9yn1.cloudfront.net/3655.gif,walking high knees lunge,cardio target,cardio,6
+148,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1201.gif,dumbbell burpee,cardio target,cardio,8
+149,barbell,http://d205bpvrqc9yn1.cloudfront.net/0041.gif,barbell front raise,delts,shoulder,6
+150,barbell,http://d205bpvrqc9yn1.cloudfront.net/0067.gif,barbell one arm snatch,delts,shoulder,5
+151,barbell,http://d205bpvrqc9yn1.cloudfront.net/0075.gif,barbell rear delt raise,delts,shoulder,5
+152,barbell,http://d205bpvrqc9yn1.cloudfront.net/0076.gif,barbell rear delt row,delts,shoulder,6
+153,barbell,http://d205bpvrqc9yn1.cloudfront.net/0086.gif,barbell seated behind head military press,delts,shoulder,6
+154,barbell,http://d205bpvrqc9yn1.cloudfront.net/0100.gif,barbell skier,delts,shoulder,6
+155,barbell,http://d205bpvrqc9yn1.cloudfront.net/0105.gif,barbell standing bradford press,delts,shoulder,5
+156,barbell,http://d205bpvrqc9yn1.cloudfront.net/1456.gif,barbell standing close grip military press,delts,shoulder,5
+157,barbell,http://d205bpvrqc9yn1.cloudfront.net/0107.gif,barbell standing front raise over head,delts,shoulder,5
+158,barbell,http://d205bpvrqc9yn1.cloudfront.net/1457.gif,barbell standing wide military press,delts,shoulder,6
+159,barbell,http://d205bpvrqc9yn1.cloudfront.net/3305.gif,barbell thruster,delts,shoulder,6
+160,barbell,http://d205bpvrqc9yn1.cloudfront.net/0120.gif,barbell upright row,delts,shoulder,5
+161,barbell,http://d205bpvrqc9yn1.cloudfront.net/0119.gif,barbell upright row v. 2,delts,shoulder,6
+162,barbell,http://d205bpvrqc9yn1.cloudfront.net/0121.gif,barbell upright row v. 3,delts,shoulder,5
+163,barbell,http://d205bpvrqc9yn1.cloudfront.net/0123.gif,barbell wide-grip upright row,delts,shoulder,5
+164,barbell,http://d205bpvrqc9yn1.cloudfront.net/0788.gif,standing behind neck press,delts,shoulder,5
+165,body weight,http://d205bpvrqc9yn1.cloudfront.net/2271.gif,left hook. boxing,delts,shoulder,4
+166,body weight,http://d205bpvrqc9yn1.cloudfront.net/0669.gif,rear deltoid stretch,delts,shoulder,4
+167,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0286.gif,dumbbell alternate side press,delts,shoulder,6
+168,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2137.gif,dumbbell arnold press,delts,shoulder,6
+169,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0287.gif,dumbbell arnold press v. 2,delts,shoulder,7
+170,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0290.gif,dumbbell bench seated press,delts,shoulder,5
+171,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0299.gif,dumbbell cuban press,delts,shoulder,6
+172,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2136.gif,dumbbell cuban press v. 2,delts,shoulder,5
+173,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0310.gif,dumbbell front raise,delts,shoulder,6
+174,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0309.gif,dumbbell front raise v. 2,delts,shoulder,5
+175,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0311.gif,dumbbell full can lateral raise,delts,shoulder,4
+176,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0332.gif,dumbbell iron cross,delts,shoulder,5
+177,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0334.gif,dumbbell lateral raise,delts,shoulder,4
+178,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0335.gif,dumbbell lateral to front raise,delts,shoulder,5
+179,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0863.gif,dumbbell lying external shoulder rotation,delts,shoulder,6
+180,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2470.gif,dumbbell lying on floor rear delt raise,delts,shoulder,4
+181,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0356.gif,dumbbell one arm lateral raise with support,delts,shoulder,5
+182,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0359.gif,dumbbell one arm reverse fly (with support),delts,shoulder,5
+183,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0361.gif,dumbbell one arm shoulder press,delts,shoulder,6
+184,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0360.gif,dumbbell one arm shoulder press v. 2,delts,shoulder,6
+185,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0363.gif,dumbbell one arm upright row,delts,shoulder,5
+186,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1700.gif,dumbbell push press,delts,shoulder,6
+187,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0376.gif,dumbbell raise,delts,shoulder,5
+188,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2292.gif,dumbbell rear delt raise,delts,shoulder,6
+189,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0378.gif,dumbbell rear fly,delts,shoulder,5
+190,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0380.gif,dumbbell rear lateral raise,delts,shoulder,6
+191,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2397.gif,dumbbell scott press,delts,shoulder,5
+192,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0387.gif,dumbbell seated alternate front raise,delts,shoulder,6
+193,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0388.gif,dumbbell seated alternate press,delts,shoulder,5
+194,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3546.gif,dumbbell seated alternate shoulder,delts,shoulder,5
+195,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2317.gif,dumbbell seated bent arm lateral raise,delts,shoulder,6
+196,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0392.gif,dumbbell seated front raise,delts,shoulder,6
+197,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0396.gif,dumbbell seated lateral raise,delts,shoulder,6
+198,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0395.gif,dumbbell seated lateral raise v. 2,delts,shoulder,5
+199,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0405.gif,dumbbell seated shoulder press,delts,shoulder,5
+200,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0404.gif,dumbbell seated shoulder press (parallel grip),delts,shoulder,6
+201,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3548.gif,dumbbell single arm overhead carry,delts,shoulder,6
+202,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0414.gif,dumbbell standing alternate overhead press,delts,shoulder,5
+203,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0415.gif,dumbbell standing alternate raise,delts,shoulder,6
+204,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2143.gif,dumbbell standing around world,delts,shoulder,5
+205,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0419.gif,dumbbell standing front raise above head,delts,shoulder,6
+206,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0424.gif,dumbbell standing one arm palm in press,delts,shoulder,5
+207,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0426.gif,dumbbell standing overhead press,delts,shoulder,6
+208,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0427.gif,dumbbell standing palms in press,delts,shoulder,5
+209,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0437.gif,dumbbell upright row,delts,shoulder,6
+210,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1765.gif,dumbbell upright row (back pov),delts,shoulder,5
+211,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0864.gif,dumbbell upright shoulder external rotation,delts,shoulder,6
+212,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0438.gif,dumbbell w-press,delts,shoulder,6
+213,barbell,http://d205bpvrqc9yn1.cloudfront.net/0079.gif,barbell revers wrist curl v. 2,arms muscle,arms,5
+214,barbell,http://d205bpvrqc9yn1.cloudfront.net/0104.gif,barbell standing back wrist curl,arms muscle,arms,5
+215,barbell,http://d205bpvrqc9yn1.cloudfront.net/0126.gif,barbell wrist curl,arms muscle,arms,6
+216,barbell,http://d205bpvrqc9yn1.cloudfront.net/0125.gif,barbell wrist curl v. 2,arms muscle,arms,5
+217,barbell,http://d205bpvrqc9yn1.cloudfront.net/0455.gif,finger curls,arms muscle,arms,6
+218,body weight,http://d205bpvrqc9yn1.cloudfront.net/1421.gif,modified push up to lower arms,arms muscle,arms,5
+219,body weight,http://d205bpvrqc9yn1.cloudfront.net/0721.gif,side wrist pull stretch,arms muscle,arms,6
+220,body weight,http://d205bpvrqc9yn1.cloudfront.net/1428.gif,wrist circles,arms muscle,arms,5
+221,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1437.gif,dumbbell finger curls,arms muscle,arms,6
+222,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0347.gif,dumbbell lying pronation,arms muscle,arms,5
+223,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2705.gif,dumbbell lying pronation on floor,arms muscle,arms,6
+224,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0349.gif,dumbbell lying supination,arms muscle,arms,5
+225,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2706.gif,dumbbell lying supination on floor,arms muscle,arms,5
+226,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0358.gif,dumbbell one arm revers wrist curl,arms muscle,arms,5
+227,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1415.gif,dumbbell one arm seated neutral wrist curl,arms muscle,arms,6
+228,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0364.gif,dumbbell one arm wrist curl,arms muscle,arms,5
+229,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0385.gif,dumbbell reverse wrist curl,arms muscle,arms,5
+230,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0399.gif,dumbbell seated one arm rotate,arms muscle,arms,5
+231,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0401.gif,dumbbell seated palms up wrist curl,arms muscle,arms,5
+232,barbell,http://d205bpvrqc9yn1.cloudfront.net/0029.gif,barbell clean-grip front squat,glutes,leg,6
+233,barbell,http://d205bpvrqc9yn1.cloudfront.net/0032.gif,barbell deadlift,glutes,leg,6
+234,barbell,http://d205bpvrqc9yn1.cloudfront.net/0039.gif,barbell front chest squat,glutes,leg,5
+235,barbell,http://d205bpvrqc9yn1.cloudfront.net/0042.gif,barbell front squat,glutes,leg,5
+236,barbell,http://d205bpvrqc9yn1.cloudfront.net/0043.gif,barbell full squat,glutes,leg,6
+237,barbell,http://d205bpvrqc9yn1.cloudfront.net/1461.gif,barbell full squat (back pov),glutes,leg,5
+238,barbell,http://d205bpvrqc9yn1.cloudfront.net/1545.gif,barbell full zercher squat,glutes,leg,6
+239,barbell,http://d205bpvrqc9yn1.cloudfront.net/1409.gif,barbell glute bridge,glutes,leg,5
+240,barbell,http://d205bpvrqc9yn1.cloudfront.net/0046.gif,barbell hack squat,glutes,leg,6
+241,barbell,http://d205bpvrqc9yn1.cloudfront.net/0051.gif,barbell jefferson squat,glutes,leg,5
+242,barbell,http://d205bpvrqc9yn1.cloudfront.net/0053.gif,barbell jump squat,glutes,leg,5
+243,barbell,http://d205bpvrqc9yn1.cloudfront.net/1410.gif,barbell lateral lunge,glutes,leg,5
+244,barbell,http://d205bpvrqc9yn1.cloudfront.net/1435.gif,barbell low bar squat,glutes,leg,5
+245,barbell,http://d205bpvrqc9yn1.cloudfront.net/0054.gif,barbell lunge,glutes,leg,6
+246,barbell,http://d205bpvrqc9yn1.cloudfront.net/0066.gif,barbell one arm side deadlift,glutes,leg,6
+247,barbell,http://d205bpvrqc9yn1.cloudfront.net/0074.gif,barbell rack pull,glutes,leg,5
+248,barbell,http://d205bpvrqc9yn1.cloudfront.net/0078.gif,barbell rear lunge,glutes,leg,6
+249,barbell,http://d205bpvrqc9yn1.cloudfront.net/0077.gif,barbell rear lunge v. 2,glutes,leg,5
+250,barbell,http://d205bpvrqc9yn1.cloudfront.net/0085.gif,barbell romanian deadlift,glutes,leg,6
+251,barbell,http://d205bpvrqc9yn1.cloudfront.net/0090.gif,barbell seated good morning,glutes,leg,5
+252,barbell,http://d205bpvrqc9yn1.cloudfront.net/1756.gif,barbell single leg deadlift,glutes,leg,6
+253,barbell,http://d205bpvrqc9yn1.cloudfront.net/0101.gif,barbell speed squat,glutes,leg,5
+254,barbell,http://d205bpvrqc9yn1.cloudfront.net/0115.gif,barbell stiff leg good morning,glutes,leg,6
+255,barbell,http://d205bpvrqc9yn1.cloudfront.net/0117.gif,barbell sumo deadlift,glutes,leg,5
+256,barbell,http://d205bpvrqc9yn1.cloudfront.net/0127.gif,barbell zercher squat,glutes,leg,6
+257,barbell,http://d205bpvrqc9yn1.cloudfront.net/3194.gif,frankenstein squat,glutes,leg,5
+258,barbell,http://d205bpvrqc9yn1.cloudfront.net/1420.gif,kneeling jump squat,glutes,leg,6
+259,body weight,http://d205bpvrqc9yn1.cloudfront.net/3214.gif,arms apart circular toe touch (male),glutes,leg,5
+260,body weight,http://d205bpvrqc9yn1.cloudfront.net/3212.gif,basic toe touch (male),glutes,leg,6
+261,body weight,http://d205bpvrqc9yn1.cloudfront.net/3639.gif,bent knee lying twist (male),glutes,leg,5
+262,body weight,http://d205bpvrqc9yn1.cloudfront.net/3543.gif,bodyweight drop jump squat,glutes,leg,6
+263,body weight,http://d205bpvrqc9yn1.cloudfront.net/3769.gif,curtsey squat,glutes,leg,5
+264,body weight,http://d205bpvrqc9yn1.cloudfront.net/3470.gif,forward lunge (male),glutes,leg,6
+265,body weight,http://d205bpvrqc9yn1.cloudfront.net/3561.gif,glute bridge march,glutes,leg,6
+266,body weight,http://d205bpvrqc9yn1.cloudfront.net/3218.gif,hands clasped circular toe touch (male),glutes,leg,5
+267,body weight,http://d205bpvrqc9yn1.cloudfront.net/3215.gif,hands reversed clasped circular toe touch (male),glutes,leg,6
+268,body weight,http://d205bpvrqc9yn1.cloudfront.net/1418.gif,hug keens to chest,glutes,leg,5
+269,body weight,http://d205bpvrqc9yn1.cloudfront.net/1419.gif,iron cross stretch,glutes,leg,5
+270,body weight,http://d205bpvrqc9yn1.cloudfront.net/0514.gif,jump squat,glutes,leg,7
+271,body weight,http://d205bpvrqc9yn1.cloudfront.net/0513.gif,jump squat v. 2,glutes,leg,8
+272,body weight,http://d205bpvrqc9yn1.cloudfront.net/3013.gif,low glute bridge on floor,glutes,leg,5
+273,body weight,http://d205bpvrqc9yn1.cloudfront.net/3582.gif,lunge with jump,glutes,leg,7
+274,body weight,http://d205bpvrqc9yn1.cloudfront.net/0624.gif,march sit (wall),glutes,leg,5
+275,body weight,http://d205bpvrqc9yn1.cloudfront.net/0628.gif,monster walk,glutes,leg,6
+276,body weight,http://d205bpvrqc9yn1.cloudfront.net/0642.gif,outside leg kick push-up,glutes,leg,7
+277,body weight,http://d205bpvrqc9yn1.cloudfront.net/1422.gif,pelvic tilt into bridge,glutes,leg,5
+278,body weight,http://d205bpvrqc9yn1.cloudfront.net/3662.gif,pike-to-cobra push-up,glutes,leg,6
+279,body weight,http://d205bpvrqc9yn1.cloudfront.net/3132.gif,potty squat with support,glutes,leg,7
+280,body weight,http://d205bpvrqc9yn1.cloudfront.net/0661.gif,push-up inside leg kick,glutes,leg,7
+281,body weight,http://d205bpvrqc9yn1.cloudfront.net/0668.gif,rear decline bridge,glutes,leg,6
+282,body weight,http://d205bpvrqc9yn1.cloudfront.net/2571.gif,rocking frog stretch,glutes,leg,5
+283,body weight,http://d205bpvrqc9yn1.cloudfront.net/1424.gif,seated glute stretch,glutes,leg,6
+284,body weight,http://d205bpvrqc9yn1.cloudfront.net/2567.gif,seated piriformis stretch,glutes,leg,7
+285,body weight,http://d205bpvrqc9yn1.cloudfront.net/3645.gif,single leg bridge with outstretched leg,glutes,leg,6
+286,body weight,http://d205bpvrqc9yn1.cloudfront.net/1759.gif,single leg squat (pistol) male,glutes,leg,6
+287,body weight,http://d205bpvrqc9yn1.cloudfront.net/0778.gif,spider crawl push up,glutes,leg,8
+288,body weight,http://d205bpvrqc9yn1.cloudfront.net/3433.gif,swimmer kicks v. 2 (male),glutes,leg,7
+289,body weight,http://d205bpvrqc9yn1.cloudfront.net/1466.gif,twist hip lift,glutes,leg,6
+290,body weight,http://d205bpvrqc9yn1.cloudfront.net/1460.gif,walking lunge,glutes,leg,5
+291,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0291.gif,dumbbell bench squat,glutes,leg,6
+292,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0295.gif,dumbbell clean,glutes,leg,5
+293,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3635.gif,dumbbell contralateral forward lunge,glutes,leg,6
+294,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0300.gif,dumbbell deadlift,glutes,leg,5
+295,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0336.gif,dumbbell lunge,glutes,leg,6
+296,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3888.gif,dumbbell one arm snatch,glutes,leg,6
+297,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0371.gif,dumbbell plyo squat,glutes,leg,5
+298,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0381.gif,dumbbell rear lunge,glutes,leg,6
+299,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1459.gif,dumbbell romanian deadlift,glutes,leg,5
+300,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1757.gif,dumbbell single leg deadlift,glutes,leg,6
+301,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0411.gif,dumbbell single leg squat,glutes,leg,5
+302,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0413.gif,dumbbell squat,glutes,leg,6
+303,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0432.gif,dumbbell stiff leg deadlift,glutes,leg,6
+304,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0434.gif,dumbbell straight leg deadlift,glutes,leg,6
+316,barbell,http://d205bpvrqc9yn1.cloudfront.net/1316.gif,barbell bent arm pullover,back muscle,back,5
+317,barbell,http://d205bpvrqc9yn1.cloudfront.net/0034.gif,barbell decline bent arm pullover,back muscle,back,5
+318,barbell,http://d205bpvrqc9yn1.cloudfront.net/0037.gif,barbell decline wide-grip pullover,back muscle,back,6
+319,barbell,http://d205bpvrqc9yn1.cloudfront.net/0073.gif,barbell pullover,back muscle,back,5
+320,body weight,http://d205bpvrqc9yn1.cloudfront.net/1346.gif,kneeling lat stretch,back muscle,back,4
+321,body weight,http://d205bpvrqc9yn1.cloudfront.net/0690.gif,seated lower back stretch,back muscle,back,4
+322,body weight,http://d205bpvrqc9yn1.cloudfront.net/1358.gif,side lying floor stretch,back muscle,back,4
+323,body weight,http://d205bpvrqc9yn1.cloudfront.net/0794.gif,standing lateral stretch,back muscle,back,4
+324,barbell,http://d205bpvrqc9yn1.cloudfront.net/0025.gif,barbell bench press,chest muscle,chest,5
+325,barbell,http://d205bpvrqc9yn1.cloudfront.net/0033.gif,barbell decline bench press,chest muscle,chest,6
+326,barbell,http://d205bpvrqc9yn1.cloudfront.net/1255.gif,barbell decline pullover,chest muscle,chest,5
+327,barbell,http://d205bpvrqc9yn1.cloudfront.net/0040.gif,barbell front raise and pullover,chest muscle,chest,6
+328,barbell,http://d205bpvrqc9yn1.cloudfront.net/0045.gif,barbell guillotine bench press,chest muscle,chest,5
+329,barbell,http://d205bpvrqc9yn1.cloudfront.net/0122.gif,barbell wide bench press,chest muscle,chest,6
+330,barbell,http://d205bpvrqc9yn1.cloudfront.net/1258.gif,barbell wide reverse grip bench press,chest muscle,chest,6
+331,body weight,http://d205bpvrqc9yn1.cloudfront.net/3294.gif,archer push up,chest muscle,chest,5
+332,body weight,http://d205bpvrqc9yn1.cloudfront.net/1271.gif,chest and front of shoulder stretch,chest muscle,chest,6
+333,body weight,http://d205bpvrqc9yn1.cloudfront.net/1273.gif,clap push up,chest muscle,chest,7
+334,body weight,http://d205bpvrqc9yn1.cloudfront.net/1167.gif,dynamic chest stretch (male),chest muscle,chest,6
+335,body weight,http://d205bpvrqc9yn1.cloudfront.net/1297.gif,isometric chest squeeze,chest muscle,chest,6
+336,body weight,http://d205bpvrqc9yn1.cloudfront.net/0500.gif,isometric wipers,chest muscle,chest,6
+337,body weight,http://d205bpvrqc9yn1.cloudfront.net/3211.gif,kneeling push-up (male),chest muscle,chest,5
+338,body weight,http://d205bpvrqc9yn1.cloudfront.net/3217.gif,modified hindu push-up (male),chest muscle,chest,7
+339,body weight,http://d205bpvrqc9yn1.cloudfront.net/1306.gif,plyo push up,chest muscle,chest,6
+340,body weight,http://d205bpvrqc9yn1.cloudfront.net/1689.gif,push and pull bodyweight,chest muscle,chest,8
+341,body weight,http://d205bpvrqc9yn1.cloudfront.net/0662.gif,push-up,chest muscle,chest,7
+342,body weight,http://d205bpvrqc9yn1.cloudfront.net/0659.gif,push-up (wall),chest muscle,chest,4
+343,body weight,http://d205bpvrqc9yn1.cloudfront.net/0658.gif,push-up (wall) v. 2,chest muscle,chest,5
+344,body weight,http://d205bpvrqc9yn1.cloudfront.net/3145.gif,push-up plus,chest muscle,chest,5
+345,body weight,http://d205bpvrqc9yn1.cloudfront.net/0666.gif,raise single arm push-up,chest muscle,chest,5
+346,body weight,http://d205bpvrqc9yn1.cloudfront.net/0699.gif,shoulder tap push-up,chest muscle,chest,6
+347,body weight,http://d205bpvrqc9yn1.cloudfront.net/0725.gif,single arm push-up,chest muscle,chest,5
+348,body weight,http://d205bpvrqc9yn1.cloudfront.net/0803.gif,superman push-up,chest muscle,chest,6
+349,body weight,http://d205bpvrqc9yn1.cloudfront.net/1311.gif,wide hand push up,chest muscle,chest,5
+350,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1274.gif,deep push up,chest muscle,chest,5
+351,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0288.gif,dumbbell around pullover,chest muscle,chest,6
+352,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0289.gif,dumbbell bench press,chest muscle,chest,5
+353,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0301.gif,dumbbell decline bench press,chest muscle,chest,5
+354,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0302.gif,dumbbell decline fly,chest muscle,chest,5
+355,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0303.gif,dumbbell decline hammer press,chest muscle,chest,5
+356,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1276.gif,dumbbell decline one arm fly,chest muscle,chest,5
+357,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0307.gif,dumbbell decline twist fly,chest muscle,chest,5
+358,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0308.gif,dumbbell fly,chest muscle,chest,6
+359,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1277.gif,dumbbell fly on exercise ball,chest muscle,chest,5
+360,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0340.gif,dumbbell lying hammer press,chest muscle,chest,6
+361,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0343.gif,dumbbell lying one arm press,chest muscle,chest,5
+362,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0342.gif,dumbbell lying one arm press v. 2,chest muscle,chest,6
+363,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1285.gif,dumbbell one arm bench fly,chest muscle,chest,7
+364,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1287.gif,dumbbell one arm decline chest press,chest muscle,chest,5
+365,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1622.gif,dumbbell one arm reverse grip press,chest muscle,chest,5
+366,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0375.gif,dumbbell pullover,chest muscle,chest,5
+367,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1624.gif,dumbbell reverse bench press,chest muscle,chest,6
+368,barbell,http://d205bpvrqc9yn1.cloudfront.net/0026.gif,barbell bench squat,legs muscle,leg,5
+369,barbell,http://d205bpvrqc9yn1.cloudfront.net/0028.gif,barbell clean and press,legs muscle,leg,5
+370,barbell,http://d205bpvrqc9yn1.cloudfront.net/0069.gif,barbell overhead squat,legs muscle,leg,6
+371,barbell,http://d205bpvrqc9yn1.cloudfront.net/0098.gif,barbell side split squat,legs muscle,leg,5
+372,barbell,http://d205bpvrqc9yn1.cloudfront.net/0097.gif,barbell side split squat v. 2,legs muscle,leg,6
+373,barbell,http://d205bpvrqc9yn1.cloudfront.net/2810.gif,barbell split squat v. 2,legs muscle,leg,5
+374,barbell,http://d205bpvrqc9yn1.cloudfront.net/0124.gif,barbell wide squat,legs muscle,leg,6
+375,barbell,http://d205bpvrqc9yn1.cloudfront.net/0776.gif,snatch pull,legs muscle,leg,5
+376,barbell,http://d205bpvrqc9yn1.cloudfront.net/0786.gif,squat jerk,legs muscle,leg,6
+377,body weight,http://d205bpvrqc9yn1.cloudfront.net/1512.gif,all fours squad stretch,legs muscle,leg,4
+378,body weight,http://d205bpvrqc9yn1.cloudfront.net/1473.gif,backward jump,legs muscle,leg,5
+379,body weight,http://d205bpvrqc9yn1.cloudfront.net/1548.gif,chair leg extended stretch,legs muscle,leg,6
+380,body weight,http://d205bpvrqc9yn1.cloudfront.net/1472.gif,forward jump,legs muscle,leg,6
+381,body weight,http://d205bpvrqc9yn1.cloudfront.net/0613.gif,lying (side) quads stretch,legs muscle,leg,5
+382,body weight,http://d205bpvrqc9yn1.cloudfront.net/3552.gif,quick feet v. 2,legs muscle,leg,6
+383,body weight,http://d205bpvrqc9yn1.cloudfront.net/2368.gif,split squats,legs muscle,leg,5
+384,body weight,http://d205bpvrqc9yn1.cloudfront.net/1685.gif,squat to overhead reach,legs muscle,leg,6
+385,body weight,http://d205bpvrqc9yn1.cloudfront.net/1686.gif,squat to overhead reach with twist,legs muscle,leg,5
+386,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1760.gif,dumbbell goblet squat,legs muscle,leg,6
+387,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2133.gif,farmers walk,legs muscle,leg,5
+389,body weight,http://d205bpvrqc9yn1.cloudfront.net/1352.gif,lower back curl,back muscle,back,5
+390,body weight,http://d205bpvrqc9yn1.cloudfront.net/1362.gif,sphinx,back muscle,back,6
+391,body weight,http://d205bpvrqc9yn1.cloudfront.net/1363.gif,spine stretch,back muscle,back,5
+392,body weight,http://d205bpvrqc9yn1.cloudfront.net/1364.gif,standing pelvic tilt,back muscle,back,6
+393,body weight,http://d205bpvrqc9yn1.cloudfront.net/3231.gif,two toe touch (male),back muscle,back,5
+394,body weight,http://d205bpvrqc9yn1.cloudfront.net/1366.gif,upward facing dog,back muscle,back,6
+395,barbell,http://d205bpvrqc9yn1.cloudfront.net/0095.gif,barbell shrug,back muscle,back,5
+396,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0406.gif,dumbbell shrug,back muscle,back,5
+397,barbell,http://d205bpvrqc9yn1.cloudfront.net/0052.gif,barbell jm bench press,arms muscle,arms,6
+398,barbell,http://d205bpvrqc9yn1.cloudfront.net/0061.gif,barbell lying triceps extension,arms muscle,arms,5
+399,barbell,http://d205bpvrqc9yn1.cloudfront.net/0060.gif,barbell lying triceps extension skull crusher,arms muscle,arms,6
+400,barbell,http://d205bpvrqc9yn1.cloudfront.net/0065.gif,barbell one arm floor press,arms muscle,arms,5
+401,barbell,http://d205bpvrqc9yn1.cloudfront.net/1751.gif,barbell pin presses,arms muscle,arms,6
+402,barbell,http://d205bpvrqc9yn1.cloudfront.net/2187.gif,barbell reverse close-grip bench press,arms muscle,arms,5
+403,barbell,http://d205bpvrqc9yn1.cloudfront.net/1721.gif,barbell reverse grip skullcrusher,arms muscle,arms,6
+404,barbell,http://d205bpvrqc9yn1.cloudfront.net/1718.gif,barbell seated close grip behind neck triceps extension,arms muscle,arms,7
+405,barbell,http://d205bpvrqc9yn1.cloudfront.net/0092.gif,barbell seated overhead triceps extension,arms muscle,arms,5
+406,barbell,http://d205bpvrqc9yn1.cloudfront.net/0109.gif,barbell standing overhead triceps extension,arms muscle,arms,7
+407,body weight,http://d205bpvrqc9yn1.cloudfront.net/0137.gif,body-up,arms muscle,arms,7
+408,body weight,http://d205bpvrqc9yn1.cloudfront.net/1771.gif,bodyweight kneeling triceps extension,arms muscle,arms,6
+409,body weight,http://d205bpvrqc9yn1.cloudfront.net/0259.gif,close-grip push-up,arms muscle,arms,6
+410,body weight,http://d205bpvrqc9yn1.cloudfront.net/2398.gif,close-grip push-up (on knees),arms muscle,arms,5
+411,body weight,http://d205bpvrqc9yn1.cloudfront.net/0283.gif,diamond push-up,arms muscle,arms,6
+412,body weight,http://d205bpvrqc9yn1.cloudfront.net/0643.gif,overhead triceps stretch,arms muscle,arms,5
+413,body weight,http://d205bpvrqc9yn1.cloudfront.net/1467.gif,push-up on lower arms,arms muscle,arms,5
+414,body weight,http://d205bpvrqc9yn1.cloudfront.net/0672.gif,reverse dip,arms muscle,arms,6
+415,body weight,http://d205bpvrqc9yn1.cloudfront.net/0717.gif,side push-up,arms muscle,arms,7
+416,body weight,http://d205bpvrqc9yn1.cloudfront.net/0815.gif,triceps dips floor,arms muscle,arms,5
+417,body weight,http://d205bpvrqc9yn1.cloudfront.net/0817.gif,triceps stretch,arms muscle,arms,5
+418,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1731.gif,dumbbell close grip press,arms muscle,arms,7
+419,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0306.gif,dumbbell decline triceps extension,arms muscle,arms,5
+420,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1732.gif,dumbbell forward lunge triceps extension,arms muscle,arms,7
+421,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0333.gif,dumbbell kickback,arms muscle,arms,6
+422,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0337.gif,dumbbell lying  extension (across face),arms muscle,arms,5
+423,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0338.gif,dumbbell lying elbow press,arms muscle,arms,6
+424,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0344.gif,dumbbell lying one arm pronated triceps extension,arms muscle,arms,6
+425,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0346.gif,dumbbell lying one arm supinated triceps extension,arms muscle,arms,5
+426,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1735.gif,dumbbell lying single extension,arms muscle,arms,6
+427,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0351.gif,dumbbell lying triceps extension,arms muscle,arms,5
+428,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0352.gif,dumbbell neutral grip bench press,arms muscle,arms,6
+429,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0354.gif,dumbbell one arm kickback,arms muscle,arms,6
+430,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0362.gif,dumbbell one arm triceps extension (on bench),arms muscle,arms,5
+431,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0373.gif,dumbbell pronate-grip triceps extension,arms muscle,arms,6
+432,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0389.gif,dumbbell seated bench extension,arms muscle,arms,5
+433,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1730.gif,dumbbell seated bent over alternate kickback,arms muscle,arms,6
+434,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1737.gif,dumbbell seated bent over triceps extension,arms muscle,arms,5
+435,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0394.gif,dumbbell seated kickback,arms muscle,arms,6
+436,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0398.gif,dumbbell seated one arm kickback,arms muscle,arms,5
+437,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1738.gif,dumbbell seated reverse grip one arm overhead tricep extension,arms muscle,arms,5
+438,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2188.gif,dumbbell seated triceps extension,arms muscle,arms,6
+439,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1739.gif,dumbbell standing alternating tricep kickback,arms muscle,arms,5
+440,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1740.gif,dumbbell standing bent over one arm triceps extension,arms muscle,arms,6
+441,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1741.gif,dumbbell standing bent over two arm triceps extension,arms muscle,arms,5
+442,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0420.gif,dumbbell standing kickback,arms muscle,arms,6
+443,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0423.gif,dumbbell standing one arm extension,arms muscle,arms,6
+444,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0430.gif,dumbbell standing triceps extension,arms muscle,arms,6
+445,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1742.gif,dumbbell tricep kickback with stork stance,arms muscle,arms,7
+446,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1743.gif,dumbbell twisting bench press,arms muscle,arms,5
+447,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2189.gif,dumbbells seated triceps extension,arms muscle,arms,5
+448,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0660.gif,push-up close-grip off dumbbell,arms muscle,arms,6
+449,barbell,http://d205bpvrqc9yn1.cloudfront.net/0027.gif,barbell bent over row,back muscle,back,6
+450,barbell,http://d205bpvrqc9yn1.cloudfront.net/3017.gif,barbell pendlay row,back muscle,back,5
+451,barbell,http://d205bpvrqc9yn1.cloudfront.net/0118.gif,barbell reverse grip bent over row,back muscle,back,6
+452,barbell,http://d205bpvrqc9yn1.cloudfront.net/0589.gif,lever one arm bent over row,back muscle,back,6
+453,body weight,http://d205bpvrqc9yn1.cloudfront.net/1772.gif,elbow lift - reverse push-up,back muscle,back,6
+454,body weight,http://d205bpvrqc9yn1.cloudfront.net/3669.gif,standing archer,back muscle,back,6
+455,body weight,http://d205bpvrqc9yn1.cloudfront.net/1365.gif,upper back stretch,back muscle,back,5
+456,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0293.gif,dumbbell bent over row,back muscle,back,5
+457,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/0292.gif,dumbbell one arm bent-over row,back muscle,back,5
+458,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/1329.gif,dumbbell palm rotational bent over row,back muscle,back,6
+459,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/2327.gif,dumbbell reverse grip row (female),back muscle,back,5
+460,dumbbell,http://d205bpvrqc9yn1.cloudfront.net/3664.gif,dumbbell side plank with rear fly,back muscle,back,6
